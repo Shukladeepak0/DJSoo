@@ -1,0 +1,2 @@
+# DJSoo
+learning process 
